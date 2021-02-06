@@ -1,6 +1,6 @@
 # FormatNodeMCU
 
-This script will attempt to format and fix the corrupted from the previous flash content in NodeMCU. How it works, is actually pretty simple. This script will store some simple Base64s and it will loop a print function.
+This script will attempt to format and fix the corrupted from the previous flash content in NodeMCU. How it works, is actually pretty simple. This script will store some simple Base64s and it will loop a print function. If the flash content isn't showing correctly, The NodeMCU will learn on how to show them correctly. This script was meant for that.
 
 ![Serial Monitor](https://i.ibb.co/8MbsDYg/image.png)
 ## How to use?
